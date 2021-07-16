@@ -5,7 +5,7 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Marcus Yi | Valley Christian | Undecided | Incoming Senior
 
-![Headstone Image](https://cdn.discordapp.com/attachments/865684000450412547/865684134613221436/IMG_1633.JPG)
+![Headstone Image]()
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
@@ -21,6 +21,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 Words here
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=B-uA_yVBnaU "First Milestone"){:target="_blank" rel="noopener"}
-
-(https://cdn.discordapp.com/attachments/865684000450412547/865684134613221436/IMG_1633.JPG)
+![First Milestone](https://cdn.discordapp.com/attachments/865684000450412547/865684134613221436/IMG_1633.JPG)
+![First Milestone](https://cdn.discordapp.com/attachments/865684000450412547/865695721691545621/IMG_1634.JPG)
+https://www.youtube.com/watch?v=B-uA_yVBnaU
