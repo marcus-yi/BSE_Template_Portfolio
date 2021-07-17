@@ -15,10 +15,12 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
 
+
+
 [![Third Milestone]](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
 
-My first milestone is to get my RTC chip to work. I connected the wires RTC chip to the arduino, which in turn is connected to my laptop where I add the code.
+My first milestone is to get my RTC chip to work. I connected the wires RTC chip to the arduino, which in turn is connected to my laptop where I add the following code:
 
 ```python
 // Date and time functions using a DS3231 RTC connected via I2C and Wire lib
@@ -71,6 +73,7 @@ void loop () {
     delay(1000);
 }
 ```
+After I uploaded this to the RTC, it was able to display real time up to the second.
 
 ![First Milestone](https://cdn.discordapp.com/attachments/865684000450412547/865684134613221436/IMG_1633.JPG)
 ![First Milestone](https://cdn.discordapp.com/attachments/865684000450412547/865695721691545621/IMG_1634.JPG)
