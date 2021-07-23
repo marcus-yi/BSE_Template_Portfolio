@@ -5,7 +5,7 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Marcus | Valley Christian | Undecided | Incoming Senior
 
-![Headstone Image](https://cdn.discordapp.com/attachments/865684000450412547/868211966999674900/IMG_03194083AF1B-1.jpeg)
+![Headstone Image]()
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
@@ -85,8 +85,7 @@ void loop () {
     strip.show();
 }
 ```
-![Second Milestone](https://cdn.discordapp.com/attachments/865684000450412547/866568199305953280/Screen_Shot_2021-07-18_at_11.31.44_PM.png)
-https://www.youtube.com/watch?v=z_nu1Ccq-Gk&feature=youtu.be
+[![Second Milestone](https://cdn.discordapp.com/attachments/865684000450412547/866568199305953280/Screen_Shot_2021-07-18_at_11.31.44_PM.png)](https://www.youtube.com/watch?v=z_nu1Ccq-Gk&feature=youtu.be){:target="_blank" rel="noopener"}
 
 # First Milestone
 
@@ -145,6 +144,4 @@ void loop () {
 ```
 After I uploaded this to the RTC, it was able to display real time up to the second.
 
-![First Milestone](https://cdn.discordapp.com/attachments/865684000450412547/865684134613221436/IMG_1633.JPG)
-![First Milestone](https://cdn.discordapp.com/attachments/865684000450412547/865695721691545621/IMG_1634.JPG)
-https://www.youtube.com/watch?v=B-uA_yVBnaU
+[![First Milestone](https://cdn.discordapp.com/attachments/865684000450412547/865695721691545621/IMG_1634.JPG)](https://www.youtube.com/watch?v=B-uA_yVBnaU){:target="_blank" rel="noopener"}
