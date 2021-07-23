@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Marcus Yi | Valley Christian | Undecided | Incoming Senior
+| Marcus | Valley Christian | Undecided | Incoming Senior
 
 ![Headstone Image](https://cdn.discordapp.com/attachments/865684000450412547/868211966999674900/IMG_03194083AF1B-1.jpeg)
   
