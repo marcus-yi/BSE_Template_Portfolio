@@ -3,7 +3,7 @@ Using LED lights to imitate the hour, minute and second hand normally seen in an
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Marcus | Valley Christian | Enginnering | Senior
+| Marcus Yi | Northeastern University | Computer Science | Second Year
 
 [![Headstone Image](https://cdn.discordapp.com/attachments/865684000450412547/870169339788152872/image0.jpg)](https://www.youtube.com/watch?v=9Bqgl29xB1Y)
   
